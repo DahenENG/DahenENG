@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dahen Nawzad 👋</h1>
+<h1 align="center">Dahen Nawzad | Developer </h1>
 
 
 <picture>
